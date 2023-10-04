@@ -9,5 +9,5 @@ Description: More about what it does (maybe more than one line)
 License: AGPL (>= 3)
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/wzbillings/longwing
+URL: https://github.com/wzbillings/longwing, https://wzbillings.github.io/longwing/
 BugReports: https://github.com/wzbillings/longwing/issues
