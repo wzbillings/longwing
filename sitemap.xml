@@ -13,9 +13,12 @@
     <loc>https://wzbillings.github.io/longwing/index.html</loc>
   </url>
   <url>
-    <loc>https://wzbillings.github.io/longwing/reference/hello.html</loc>
+    <loc>https://wzbillings.github.io/longwing/reference/index.html</loc>
   </url>
   <url>
-    <loc>https://wzbillings.github.io/longwing/reference/index.html</loc>
+    <loc>https://wzbillings.github.io/longwing/reference/longwing-package.html</loc>
+  </url>
+  <url>
+    <loc>https://wzbillings.github.io/longwing/reference/longwing_data.html</loc>
   </url>
 </urlset>
