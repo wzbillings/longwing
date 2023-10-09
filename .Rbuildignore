@@ -8,3 +8,6 @@
 ^pkgdown$
 ^\.github$
 ^README\.Rmd$
+^vignettes
+^cran-comments\.md$
+^data-raw$
